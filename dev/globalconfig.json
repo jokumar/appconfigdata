@@ -1,0 +1,19 @@
+{
+
+  "isGlobalFeature1Enabled": {
+
+    "enabled": true
+  },
+ 
+  "isGlobalFeature2Enabled": {
+
+    "enabled": true
+  },
+  
+  "isGlobalFeature3Enabled": {
+
+    "enabled": true
+  },
+
+  
+}
