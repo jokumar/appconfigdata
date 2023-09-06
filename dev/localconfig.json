@@ -1,0 +1,19 @@
+{
+
+  "isFeature1Enabled": {
+
+    "enabled": true
+  },
+ 
+  "isFeature2Enabled": {
+
+    "enabled": false
+  },
+  
+  "isFeature3Enabled": {
+
+    "enabled": true
+  },
+
+  
+}
